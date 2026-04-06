@@ -12,4 +12,4 @@
 ## Semilog Graph
 <img width="902" height="773" alt="image" src="https://github.com/user-attachments/assets/4d74e2be-9607-4b17-8dac-b9c3e0732687" />
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+<img width="827" height="487" alt="image" src="https://github.com/user-attachments/assets/b78f42ef-7b75-44bc-95c5-bee73fe92d0f" />
